@@ -1,8 +1,42 @@
-# React + Vite
+# Fitness Tracker (MERN Stack)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack web application that helps users track workouts and monitor fitness progress.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+• User workout logging  
+• Exercise tracking system  
+• REST API backend  
+• Responsive UI for mobile and desktop
+
+## Tech Stack
+
+Frontend
+React.js
+
+Backend
+Node.js
+Express.js
+
+Database
+MongoDB
+
+## Architecture
+
+Client → React Frontend  
+Server → Node + Express API  
+Database → MongoDB
+
+## Installation
+
+1 Clone repository
+
+git clone repo-url
+
+2 Install dependencies
+
+npm install
+
+3 Run development server
+
+npm start
